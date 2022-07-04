@@ -1,0 +1,22 @@
+DATASETS
+
+[FNAME] = test.csv
+[NAME] = Nombre del set
+[OBJECTS] = 1700 Estrellas variables
+[INFO] = Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centurie
+
+[FNAME] = test2.csv
+[NAME] = Nombre del set 2
+[OBJECTS] = 2700 Estrellas variables
+[INFO] = Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centurie
+
+[FNAME] = test3.csv
+[NAME] = Nombre del set tres
+[OBJECTS] = 2700 Estrellas variables
+[INFO] = Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centurie
+
+[FNAME] = test4.csv
+[NAME] = Nombre del set cuatroo
+[OBJECTS] = 2700 Estrellas variables
+[INFO] = Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centurie
+
